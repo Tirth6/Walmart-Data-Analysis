@@ -9,10 +9,12 @@ Data Cleaning and Preprocessing
 Exploratory Data Analysis (EDA)
 Statistical Testing (T-test, ANOVA, Chi-square)
 Data Visualizations
+
 📊 Tools & Libraries
 SQL
 Python: Pandas, NumPy, SciPy
 Visualization: Seaborn, Matplotlib
+
 📸 Sample Visualizations
 ![Monthly Sales Trend] (Monthly Sales Trend
 
@@ -22,4 +24,6 @@ Statistical testing shows no major difference in product gross income and in cus
 Statistical testing indicates a significant difference between male and female customers in terms of total spending and
 variation across product lines.
 Food and beverages Highest sales than all the products.
+
 👨‍💻 Author
+[Tirth Trivedi] (https://www.linkedin.com/in/tirth11/))
